@@ -1,0 +1,26 @@
+<09/Jan/2018-19:50:14> Modul autonom a fost activat
+
+<09/Jan/2018-19:50:14> Masina a pornit
+
+<09/Jan/2018-19:50:19> Semnul de STOP a fost detectat!
+<09/Jan/2018-19:50:19> Distanta pana la semn: 66.46 cm
+<09/Jan/2018-19:50:19> Masina a oprit
+
+<09/Jan/2018-19:50:22> Am stat 3  secunde la STOP!
+
+<09/Jan/2018-19:50:22> Masina a pornit
+
+<09/Jan/2018-19:50:26> Semnul de TRECERE PENTRU PIETONI a fost detectat!
+<09/Jan/2018-19:50:26> Distanta pana la semn: 114.37 cm
+<09/Jan/2018-19:50:26> Masina a oprit
+
+<09/Jan/2018-19:50:27> Am stat 1  secunde la TRECEREA DE PIETONI!
+
+<09/Jan/2018-19:50:27> Masina a pornit
+
+<09/Jan/2018-19:50:30> Semnul de PARCARE a fost detectat!
+<09/Jan/2018-19:50:30> Distanta pana la semn: 54.70 cm
+<09/Jan/2018-19:50:30> Masina a oprit
+
+<09/Jan/2018-19:50:30> Am oprit la semnul de PARCARE
+
